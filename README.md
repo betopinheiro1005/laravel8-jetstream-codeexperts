@@ -1,7 +1,7 @@
 # Laravel 8 - Jetstream
 ## Code Experts
 
-### Instala??o de depend?ncias
+### Instalacao de dependencias
 
 ```bash
 composer install
