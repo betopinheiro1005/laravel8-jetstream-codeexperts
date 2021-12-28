@@ -1,9 +1,13 @@
 # Laravel 8 - Jetstream
 ## Code Experts
 
-### [Videos do curso](https://www.youtube.com/watch?v=ulWQZ8QWmas&list=PLswa9HeoJUq8_8xDGrXBy6MfLtjsSXkTJ)
+### Instala??o de depend?ncias
 
-### Aulas  
+```bash
+composer install
+```
+
+### Aulas - [Videos do curso](https://www.youtube.com/watch?v=ulWQZ8QWmas&list=PLswa9HeoJUq8_8xDGrXBy6MfLtjsSXkTJ)  
 
 Aula 06 - Conhecendo o Laravel Jetstream  
 Aula 07 - Laravel Jetstream em um Projeto já Existente  
